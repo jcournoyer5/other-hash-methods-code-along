@@ -13,8 +13,6 @@ groceries = {
 #  grains: ["rice", "pasta"]
 # }
 
-def get_the_values(groceries)
-  #code your solution here!
-  groceries.values
+def groceries.values
 #=> [["milk", "yogurt", "cheese"], ["carrots", "broccoli", "cucumbers"], ["chicken", "steak", "salmon"], ["rice", "pasta"]] 
 end
